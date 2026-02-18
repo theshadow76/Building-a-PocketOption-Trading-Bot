@@ -1,4 +1,4 @@
-# Building a pocketoption trqader bot using Python
+# Building a pocketoption trader bot using Python
 
 Master Pocket Option automation! In this first installment of our series, we walk you through the essential Library Setup required to build a high-performance Pocket Option trading bot. Whether you are a developer looking to automate your strategy or a trader seeking a technical edge, this tutorial covers the foundation of the BinaryOptionsTools-v2 framework.
 
